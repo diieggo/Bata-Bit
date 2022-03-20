@@ -492,6 +492,7 @@ main {
     /* gap: 15px; */
     height: 316px;
     overflow-x: scroll;
+    overflow-y: hidden;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
 }
